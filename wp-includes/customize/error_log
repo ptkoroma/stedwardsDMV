@@ -1,0 +1,8 @@
+[12-Jan-2026 17:25:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/pkoroma/public_html/stedwardsalumni.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/stedwardsalumni.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[03-Feb-2026 00:54:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/pkoroma/public_html/stedwardsalumni.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/stedwardsalumni.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17

@@ -1,0 +1,318 @@
+[14-Mar-2025 00:35:33 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:35:33 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:35:33 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:35:33 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:36:09 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:36:09 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:36:09 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:36:09 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:38:45 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:38:45 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:38:45 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:38:45 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:42:10 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:42:10 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:42:10 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:42:10 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:42:15 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:42:15 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:42:15 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:42:15 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:43:55 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:43:55 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:43:55 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:43:55 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:43:57 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Schemes\Typography" not found in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php:646
+Stack trace:
+#0 /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php(91): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_style_controls()
+#1 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2427): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_controls()
+#2 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(1050): Elementor\Controls_Stack->init_controls()
+#3 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(569): Elementor\Widget_Base->init_controls()
+#4 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(184): Elementor\Controls_Stack->get_stack()
+#5 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/managers/widgets.php(391): Elementor\Widget_Base->get_stack()
+#6 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config()
+#7 /home/pkoroma/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func()
+#8 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#9 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/pkoroma/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/pkoroma/public_html/wp-admin/admin-ajax.php(192): do_action()
+#12 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php on line 646
+[14-Mar-2025 00:44:28 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:44:28 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:44:28 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:44:28 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:44:30 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Schemes\Typography" not found in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php:646
+Stack trace:
+#0 /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php(91): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_style_controls()
+#1 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2427): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_controls()
+#2 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(1050): Elementor\Controls_Stack->init_controls()
+#3 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(569): Elementor\Widget_Base->init_controls()
+#4 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(184): Elementor\Controls_Stack->get_stack()
+#5 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/managers/widgets.php(391): Elementor\Widget_Base->get_stack()
+#6 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config()
+#7 /home/pkoroma/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func()
+#8 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#9 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/pkoroma/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/pkoroma/public_html/wp-admin/admin-ajax.php(192): do_action()
+#12 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php on line 646
+[14-Mar-2025 00:46:11 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:46:11 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:46:11 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:46:11 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:46:13 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Schemes\Typography" not found in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php:646
+Stack trace:
+#0 /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php(91): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_style_controls()
+#1 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2427): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_controls()
+#2 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(1050): Elementor\Controls_Stack->init_controls()
+#3 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(569): Elementor\Widget_Base->init_controls()
+#4 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(184): Elementor\Controls_Stack->get_stack()
+#5 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/managers/widgets.php(391): Elementor\Widget_Base->get_stack()
+#6 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config()
+#7 /home/pkoroma/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func()
+#8 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#9 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/pkoroma/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/pkoroma/public_html/wp-admin/admin-ajax.php(192): do_action()
+#12 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php on line 646
+[14-Mar-2025 00:51:04 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:51:04 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:51:04 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:51:04 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:51:06 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Schemes\Typography" not found in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php:646
+Stack trace:
+#0 /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php(91): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_style_controls()
+#1 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2427): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_controls()
+#2 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(1050): Elementor\Controls_Stack->init_controls()
+#3 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(569): Elementor\Widget_Base->init_controls()
+#4 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(184): Elementor\Controls_Stack->get_stack()
+#5 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/managers/widgets.php(391): Elementor\Widget_Base->get_stack()
+#6 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config()
+#7 /home/pkoroma/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func()
+#8 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#9 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/pkoroma/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/pkoroma/public_html/wp-admin/admin-ajax.php(192): do_action()
+#12 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php on line 646
+[14-Mar-2025 00:52:53 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:52:53 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:52:53 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:52:53 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:52:54 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Schemes\Typography" not found in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php:646
+Stack trace:
+#0 /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php(91): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_style_controls()
+#1 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2427): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_controls()
+#2 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(1050): Elementor\Controls_Stack->init_controls()
+#3 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(569): Elementor\Widget_Base->init_controls()
+#4 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(184): Elementor\Controls_Stack->get_stack()
+#5 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/managers/widgets.php(391): Elementor\Widget_Base->get_stack()
+#6 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config()
+#7 /home/pkoroma/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func()
+#8 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#9 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/pkoroma/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/pkoroma/public_html/wp-admin/admin-ajax.php(192): do_action()
+#12 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php on line 646
+[14-Mar-2025 00:57:38 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:57:38 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:57:38 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:57:38 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 00:57:39 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Schemes\Typography" not found in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php:646
+Stack trace:
+#0 /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php(91): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_style_controls()
+#1 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2427): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_controls()
+#2 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(1050): Elementor\Controls_Stack->init_controls()
+#3 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(569): Elementor\Widget_Base->init_controls()
+#4 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(184): Elementor\Controls_Stack->get_stack()
+#5 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/managers/widgets.php(391): Elementor\Widget_Base->get_stack()
+#6 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config()
+#7 /home/pkoroma/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func()
+#8 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#9 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/pkoroma/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/pkoroma/public_html/wp-admin/admin-ajax.php(192): do_action()
+#12 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php on line 646
+[14-Mar-2025 14:42:05 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 14:42:05 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 14:42:05 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 14:42:05 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[14-Mar-2025 14:42:07 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Schemes\Typography" not found in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php:646
+Stack trace:
+#0 /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php(91): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_style_controls()
+#1 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2427): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_controls()
+#2 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(1050): Elementor\Controls_Stack->init_controls()
+#3 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(569): Elementor\Widget_Base->init_controls()
+#4 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(184): Elementor\Controls_Stack->get_stack()
+#5 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/managers/widgets.php(391): Elementor\Widget_Base->get_stack()
+#6 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config()
+#7 /home/pkoroma/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func()
+#8 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#9 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/pkoroma/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/pkoroma/public_html/wp-admin/admin-ajax.php(192): do_action()
+#12 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php on line 646
+[27-Mar-2025 17:14:55 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:14:55 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:14:55 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:14:55 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:14:58 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Schemes\Typography" not found in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php:646
+Stack trace:
+#0 /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php(91): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_style_controls()
+#1 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2435): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_controls()
+#2 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(1049): Elementor\Controls_Stack->init_controls()
+#3 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(570): Elementor\Widget_Base->init_controls()
+#4 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(185): Elementor\Controls_Stack->get_stack()
+#5 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/managers/widgets.php(403): Elementor\Widget_Base->get_stack()
+#6 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config()
+#7 /home/pkoroma/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func()
+#8 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#9 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/pkoroma/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/pkoroma/public_html/wp-admin/admin-ajax.php(192): do_action()
+#12 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php on line 646
+[27-Mar-2025 17:15:50 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:15:50 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:15:50 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:15:50 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:15:51 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/pkoroma/public_html/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[27-Mar-2025 17:16:02 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:16:02 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:16:02 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:16:02 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:16:12 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:16:12 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:16:12 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:16:12 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:18:44 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:18:44 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:18:44 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:18:44 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:18:46 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Schemes\Typography" not found in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php:646
+Stack trace:
+#0 /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php(91): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_style_controls()
+#1 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2435): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_controls()
+#2 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(1049): Elementor\Controls_Stack->init_controls()
+#3 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(570): Elementor\Widget_Base->init_controls()
+#4 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(185): Elementor\Controls_Stack->get_stack()
+#5 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/managers/widgets.php(403): Elementor\Widget_Base->get_stack()
+#6 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config()
+#7 /home/pkoroma/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func()
+#8 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#9 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/pkoroma/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/pkoroma/public_html/wp-admin/admin-ajax.php(192): do_action()
+#12 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php on line 646
+[27-Mar-2025 17:18:50 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:18:50 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:18:50 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:18:50 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:18:51 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Schemes\Typography" not found in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php:646
+Stack trace:
+#0 /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php(91): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_style_controls()
+#1 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2435): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_controls()
+#2 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(1049): Elementor\Controls_Stack->init_controls()
+#3 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(570): Elementor\Widget_Base->init_controls()
+#4 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(185): Elementor\Controls_Stack->get_stack()
+#5 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/managers/widgets.php(403): Elementor\Widget_Base->get_stack()
+#6 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config()
+#7 /home/pkoroma/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func()
+#8 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#9 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/pkoroma/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/pkoroma/public_html/wp-admin/admin-ajax.php(192): do_action()
+#12 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php on line 646
+[27-Mar-2025 17:19:09 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:19:09 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:19:09 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:19:09 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:19:11 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Schemes\Typography" not found in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php:646
+Stack trace:
+#0 /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php(91): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_style_controls()
+#1 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2435): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_controls()
+#2 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(1049): Elementor\Controls_Stack->init_controls()
+#3 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(570): Elementor\Widget_Base->init_controls()
+#4 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(185): Elementor\Controls_Stack->get_stack()
+#5 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/managers/widgets.php(403): Elementor\Widget_Base->get_stack()
+#6 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config()
+#7 /home/pkoroma/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func()
+#8 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#9 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/pkoroma/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/pkoroma/public_html/wp-admin/admin-ajax.php(192): do_action()
+#12 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php on line 646
+[27-Mar-2025 17:19:27 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:19:27 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:19:27 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:19:27 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:20:44 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:20:44 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:20:44 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:20:44 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:28:02 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:28:02 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:28:02 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:28:02 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:28:04 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Schemes\Typography" not found in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php:646
+Stack trace:
+#0 /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php(91): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_style_controls()
+#1 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2435): MimTheme\Plugin\Elementor\Widgets\PostsGrid->register_controls()
+#2 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(1049): Elementor\Controls_Stack->init_controls()
+#3 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(570): Elementor\Widget_Base->init_controls()
+#4 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(185): Elementor\Controls_Stack->get_stack()
+#5 /home/pkoroma/public_html/wp-content/plugins/elementor/includes/managers/widgets.php(403): Elementor\Widget_Base->get_stack()
+#6 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config()
+#7 /home/pkoroma/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func()
+#8 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#9 /home/pkoroma/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/pkoroma/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/pkoroma/public_html/wp-admin/admin-ajax.php(192): do_action()
+#12 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/mim-theme-plugin/includes/Elementor/Widgets/PostsGrid.php on line 646
+[27-Mar-2025 17:28:14 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:28:14 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:28:14 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:28:14 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:28:17 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:28:17 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:28:17 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:28:17 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:41:57 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:41:57 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:41:57 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:41:57 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:42:52 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:42:52 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:42:52 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 17:42:52 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 18:44:53 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 18:44:53 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 18:44:53 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 18:45:10 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 18:45:10 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 18:45:38 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 18:45:38 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 18:47:22 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 18:47:22 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 20:48:21 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 20:48:21 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 20:50:17 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 20:50:17 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 20:54:41 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 20:54:41 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 21:03:24 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 21:03:24 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 21:05:09 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 21:05:09 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 21:06:32 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[27-Mar-2025 21:06:32 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed

@@ -1,0 +1,4 @@
+[21-Jan-2026 05:16:55 UTC] PHP Warning:  Cannot modify header information - headers already sent in /home/pkoroma/public_html/stedwardsalumni.com/wp-includes/pluggable.php on line 1531
+[21-Jan-2026 05:16:55 UTC] PHP Warning:  Cannot modify header information - headers already sent in /home/pkoroma/public_html/stedwardsalumni.com/wp-includes/pluggable.php on line 1534
+[10-Mar-2026 18:28:41 UTC] Cron reschedule event error for hook: rsg_clear_db_cache_hook, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[26-Mar-2026 04:09:54 UTC] Cron reschedule event error for hook: rsg_clear_db_cache_hook, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}

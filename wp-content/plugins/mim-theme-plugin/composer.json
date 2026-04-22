@@ -1,0 +1,22 @@
+{
+    "name": "sozan/mim-theme-plugin",
+    "description": "This plugin contains essential data for mim wordpress theme, To use Mim theme properly you must install this plugin.",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Sozan Mojumder",
+            "email": "mojumder45@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MimTheme\\Plugin\\": "includes/"
+        },
+        "files": [
+            "includes/files/ajax_handler.php"
+        ]
+    }
+}

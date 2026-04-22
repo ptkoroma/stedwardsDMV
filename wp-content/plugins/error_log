@@ -1,0 +1,28 @@
+[18-Mar-2025 04:44:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/pkoroma/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/hello.php on line 69
+[02-Apr-2025 00:07:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/pkoroma/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/hello.php on line 69
+[14-Apr-2025 22:52:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/pkoroma/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/hello.php on line 69
+[26-Apr-2025 11:29:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/pkoroma/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/hello.php on line 69
+[12-Jun-2025 19:00:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/pkoroma/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/hello.php on line 69
+[15-Sep-2025 15:32:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/pkoroma/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/hello.php on line 69
+[06-Oct-2025 21:15:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/pkoroma/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/wp-content/plugins/hello.php on line 69

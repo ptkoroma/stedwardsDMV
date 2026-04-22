@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.stedwardsalumni.com/wp-content/plugins/slim-seo/src/Sitemaps/style.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	<url>
+		<loc>http://www.stedwardsalumni.com/school-projects/</loc>
+		<lastmod>2025-10-07T11:28:49-04:00</lastmod>
+	</url>
+	<url>
+		<loc>http://www.stedwardsalumni.com/</loc>
+		<lastmod>2025-10-07T12:43:59-04:00</lastmod>
+		<image:image>
+			<image:loc>http://www.stedwardsalumni.com/wp-content/uploads/2025/04/iconx122-4.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.stedwardsalumni.com/contact-us/</loc>
+		<lastmod>2025-10-08T15:52:01-04:00</lastmod>
+	</url>
+	<url>
+		<loc>http://www.stedwardsalumni.com/gallery/</loc>
+		<lastmod>2025-10-31T18:42:00-04:00</lastmod>
+		<image:image>
+			<image:loc>http://www.stedwardsalumni.com/wp-content/uploads/2025/04/DSC_1391-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.stedwardsalumni.com/chapters/</loc>
+		<lastmod>2025-10-07T11:23:33-04:00</lastmod>
+	</url>
+	<url>
+		<loc>http://www.stedwardsalumni.com/events/</loc>
+		<lastmod>2025-04-06T20:57:29-04:00</lastmod>
+	</url>
+</urlset>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/?utm_source=w3tc&utm_medium=footer_comment&utm_campaign=free_plugin
+
+Page Caching using Disk: Enhanced 
+Lazy Loading
+
+Served from: www.stedwardsalumni.com @ 2026-04-19 11:56:18 by W3 Total Cache
+-->

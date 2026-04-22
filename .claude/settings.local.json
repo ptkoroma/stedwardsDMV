@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:api.anthropic.com)",
+      "Bash(gunzip -c \"/Users/patrickkoroma/.claude/projects/-Users-patrickkoroma-Sites-claude-stedwardsDMV/88af9526-81e9-4d1e-b10c-871c83e189aa/tool-results/webfetch-1776901170296-l4ns4f.bin\")",
+      "Bash(tar -xf - -C /tmp/stedwards-design)",
+      "Read(//tmp/stedwards-design/**)"
+    ]
+  }
+}

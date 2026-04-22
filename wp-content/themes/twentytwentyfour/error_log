@@ -1,0 +1,4 @@
+[20-Mar-2026 15:14:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/pkoroma/public_html/stedwardsalumni.com/wp-content/themes/twentytwentyfour/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/stedwardsalumni.com/wp-content/themes/twentytwentyfour/functions.php on line 147
